@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deepaananthan2004
+- 👋 Hi, I’m @Deepaananthan AR
 - 👀 I’m interested in Data analytics & Data Science
 - 🌱 I’m currently learning B.tech AI&DS
 - 💞️ I’m looking to collaborate on ...
