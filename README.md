@@ -1,15 +1,30 @@
-# 👋 Hi, I’m Deepa Ananthan AR  
+# Hi, I'm Deepa Ananthan AR 👋
 
-- 👀 I’m interested in **Data Analytics & Data Science**  
-- 🌱 I’m currently pursuing **B.Tech in Artificial Intelligence & Data Science (AI & DS)**  
-- 💞️ I’m looking to collaborate on **AI, ML, and Data Science projects**  
-- 📫 Reach me at: **deepaananthan1.8@gmail.com**  
-- 😄 Pronouns: **He/Him - Mr.**  
-- ⚡ Fun fact:  
-   I am passionate about exploring both **Artificial Intelligence & Data Science**, finding ways to connect tech innovation with real-world impact.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepa-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/deepa-ananthan-ar)  
+[![Gmail](https://img.shields.io/badge/Gmail-deepaananthan1.8@gmail.com-red?logo=gmail&style=for-the-badge)](mailto:deepaananthan1.8@gmail.com)
 
 ---
 
+## 👀 About Me
+I’m passionate about **Data Analytics, Artificial Intelligence, and Data Science**, turning complex data into actionable insights and real-world solutions.  
+
+## 🌱 Currently
+Pursuing **B.Tech in Artificial Intelligence & Data Science (AI & DS)**, exploring AI/ML technologies and innovative applications.
+
+## 💞️ I’m Looking to Collaborate On
+- AI & Machine Learning projects  
+- Data Science & Analytics applications  
+- Innovative tech solutions impacting real-world problems
+
+## 🛠️ Tech & Tools
+- **Languages:** Python, R, SQL, Java  
+- **Tools:** Jupyter Notebook, Tableau, Power BI, Git  
+- **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras  
+
+## ⚡ Fun Fact
+I enjoy connecting **tech innovation with real-world impact**, finding creative ways to solve complex problems using AI & Data Science.
+
+---
 ## 📊 GitHub Stats  
 ![Deepa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepaananthan2004&show_icons=true&theme=radical)  
 
