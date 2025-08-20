@@ -17,8 +17,8 @@ Pursuing **B.Tech in Artificial Intelligence & Data Science (AI & DS)**, explori
 - Innovative tech solutions impacting real-world problems
 
 ## 🛠️ Tech & Tools
-- **Languages:** Python, R, SQL, Java  
-- **Tools:** Jupyter Notebook, Tableau, Power BI, Git  
+- **Languages:** Python, C/C++, (HTML,CSS) - Basic, Java(Basic)
+- **Tools:** Jupyter Notebook, Tableau, Power BI, Github, VS code, Hugging Face, API, AI - Expect 
 - **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras  
 
 ## ⚡ Fun Fact
