@@ -1,6 +1,6 @@
 # Hi, I'm Deepa Ananthan AR 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepa-ananthan-AR-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/deepa-ananthan-ar)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DeepaananthanAR-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/deepa-ananthan-ar)  
 [![Gmail](https://img.shields.io/badge/Gmail-deepaananthan1.8@gmail.com-red?logo=gmail&style=for-the-badge)](mailto:deepaananthan1.8@gmail.com)
 
 ---
